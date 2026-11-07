@@ -1,0 +1,5 @@
+{
+  "name": "Topten Barber Shop",
+  "description": "Premium minimalist barbershop in Liverpool offering style and innovation.",
+  "requestFramePermissions": ["geolocation"]
+}
